@@ -14,3 +14,6 @@ http://girke.bioinformatics.ucr.edu/GEN242/index.html-
 
 ## Seurate Tutorial on Single Cell RNA Analysis
 https://satijalab.org/seurat/v3.1/integration.html
+
+## Data analysis in Bioinformatics, using Python and Galaxy
+https://www.melbournebioinformatics.org.au/tutorials/tutorials/galaxy-workflows/galaxy-workflows/
